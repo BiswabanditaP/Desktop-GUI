@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="rs2xml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql-connector-java-8.0.29/mysql-connector-java-8.0.29/mysql-connector-java-8.0.29.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Program Files/Java/jdk-18.0.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
